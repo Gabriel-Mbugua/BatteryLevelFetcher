@@ -1,6 +1,8 @@
 # native_code
 
-A new Flutter project.
+A basic application used to help me understand how flutter can communicate with android for certain native features. Used Kotlin in this case as android's native language.
+
+<img src = "images/batteryLevel.jpg" width="400">
 
 ## Getting Started
 
